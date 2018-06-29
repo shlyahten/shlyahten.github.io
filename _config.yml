@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+timezone: Europe/Moscow
 # Name of your site (displayed in the header)
 name: Молния24 - Новости
 

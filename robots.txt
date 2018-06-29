@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Host: xn--h1afcfd9h.xn--e1alhsoq4c.xn--p1ai

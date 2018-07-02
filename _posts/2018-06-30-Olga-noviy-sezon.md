@@ -9,7 +9,7 @@ title: ЭКСКЛЮЗИВ 1 серия 3 сезон Сериал Ольга - н
 
 #### 3 сезон 1 серия (2018)
 
-[![_config.yml]({{ site.baseurl }}/images/play_video.png)](http://jud.shlyahten.ru/3142video)
+[![_config.yml]({{ site.baseurl }}/images/play_video.png)](http://jud.shlyahten.ru/link/17813/3142)
 
 #### Сюжет
 
